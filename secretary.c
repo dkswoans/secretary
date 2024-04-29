@@ -2,6 +2,7 @@
 int main(){
 
     printf("ㅇ");
-    printf("팀장님 서렁햐요./");
+    printf("킁킁..");
+
     return 0;
 }
